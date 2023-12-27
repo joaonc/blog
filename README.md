@@ -30,3 +30,11 @@ hugo -t PaperMod
 
 ## Update themes
 
+The PaperMod update was installed following
+[these](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation#method-2) instructions
+(submodule).
+
+To update the theme:
+```
+git submodule update --remote --merge
+```
