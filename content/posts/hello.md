@@ -8,8 +8,10 @@ This is a test post.
 # This is a code snippet
 def test_looks():
     """
-    Testing how **it** looks.
+    Testing how it looks.
+
+    Note: No formatting in docstrings.
     """
-    return 1+1
+    return 1 + 1
 ```
 Editing just a bit
