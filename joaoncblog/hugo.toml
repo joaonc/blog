@@ -1,5 +1,0 @@
-# https://joaonc.github.io/
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Joao Blog'
-theme = 'PaperMod'
