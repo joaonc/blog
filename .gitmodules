@@ -1,0 +1,3 @@
+[submodule "joaoncblog/public"]
+	path = joaoncblog/public
+	url = https://github.com/joaonc/joaonc.github.io.git
